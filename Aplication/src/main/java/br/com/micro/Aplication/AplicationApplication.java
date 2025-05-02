@@ -1,4 +1,4 @@
-package br.com.micro.Aplication;
+package br.com.micro.aplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
